@@ -1,8 +1,8 @@
 bower_components
-bin
-obj
 Web.*
 Properties
 Scripts
 common-coms.*
 node_modules
+obj
+bin

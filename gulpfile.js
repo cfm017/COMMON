@@ -10,9 +10,9 @@ var gulp = require('gulp');
 
 gulp.task('default', function () {
     return gulp.src('src/**/*.js')
-            .pipe(concat('common.coms.js'))
+            .pipe(concat('common-coms.js'))
         .pipe(gulp.dest(""))
-        .pipe(rename('common.coms.min.js'))
+        .pipe(rename('common-coms.min.js'))
         .pipe(uglify())
         .pipe(gulp.dest(""));
 });

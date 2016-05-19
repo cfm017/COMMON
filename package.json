@@ -1,6 +1,10 @@
 {
   "version": "1.0.0",
   "name": "common-coms",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfm017/COMMON.git"
+  },
   "main": "gulpfile.js",
   "devDependencies": {
     "gulp": "^3.9.1",

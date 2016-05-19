@@ -5,11 +5,14 @@
     "ag-grid": "3.2.2"
   },
   "description": "",
-  "main": "agGridUtils.js",
+  "main": "common-coms.js",
   "homepage": "",
   "ignore": [
     "**/.*",
     "src",
-    "test"
+    "test",
+    "gulpfile.js",
+    "package.json",
+    "package.config"
   ]
 }
