@@ -1,0 +1,7 @@
+bower_components
+bin
+obj
+Web.*
+Properties
+Scripts
+common-coms.*

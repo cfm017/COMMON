@@ -1,0 +1,16 @@
+{
+  "name": "common-coms",
+  "dependencies": {
+    "angular": "1.5.0",
+    "ag-grid": "3.2.2"
+  },
+  "description": "",
+  "main": "agGridUtils.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "test"
+  ]
+}
