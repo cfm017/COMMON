@@ -6,9 +6,7 @@
   },
   "description": "",
   "main": "agGridUtils.js",
-  "license": "MIT",
   "homepage": "",
-  "private": false,
   "ignore": [
     "**/.*",
     "test"
