@@ -8,6 +8,7 @@
   "main": "common-coms.js",
   "homepage": "",
   "ignore": [
+    "**/.*",
     "src",
     "test",
     "gulpfile.js",
