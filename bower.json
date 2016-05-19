@@ -13,6 +13,6 @@
     "test",
     "gulpfile.js",
     "package.json",
-    "package.config"
+    "packages.config"
   ]
 }
