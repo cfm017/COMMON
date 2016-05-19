@@ -9,6 +9,7 @@
   "homepage": "",
   "ignore": [
     "**/.*",
+    "src",
     "test"
   ]
 }
